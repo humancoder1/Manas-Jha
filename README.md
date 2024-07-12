@@ -14,18 +14,39 @@
 ## Technologies:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,mysql,postgres,postman,pycharm,vscode,sklearn,tensorflow,git,github"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c"/>
+  </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://skillicons.dev/icons?i=cpp"/>
+  </a>
+    <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py"/>
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js"/>
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css"/>
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres"/>
   </a>
 </p>
 
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=humancoder1&show=prs_merged,prs_merged_percentage,&theme=tokyonight&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=humancoder1&theme=tokyonight&include_all_commits=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=humancoder1&theme=tokyonight&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=human-coder-mj&show=prs_merged,prs_merged_percentage,&theme=tokyonight&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=human-coder-mj&theme=tokyonight&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=human-coder-mj&theme=tokyonight&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=humancoder1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=human-coder-mj&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
