@@ -21,7 +21,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=human-coder-mj&show=prs_merged,prs_merged_percentage,&theme=tokyonight&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=human-coder-mj&theme=tokyonight&include_all_commits=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=human-coder-mj&theme=tokyonight&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=human-coder-mj&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 
