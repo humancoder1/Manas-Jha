@@ -5,7 +5,7 @@
 
 ## Let's Connect!: 
 <a href="https://linkedin.com/in/humancoder" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" width="40" ></a>
-<a href="https://twitter.com/manasjha0101" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?w=740&t=st=1709367618~exp=1709368218~hmac=2236f10e16af42dfc008a24a56d96308403673ce96799224c9a1532d55015615"  height="60" width="60"  /></a>
+<a href="https://x.com/soulbeingmj" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?w=740&t=st=1709367618~exp=1709368218~hmac=2236f10e16af42dfc008a24a56d96308403673ce96799224c9a1532d55015615"  height="60" width="60"  /></a>
 
 ## 🛠️ Technologies:
 <table align="center">
